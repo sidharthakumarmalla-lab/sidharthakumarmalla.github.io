@@ -1,13 +1,13 @@
-# 📊 Sidhartha Malla – Data Analyst Portfolio
+#  Sidhartha Kumar Malla – Data Analyst Portfolio
 
 Welcome to my professional Data Analyst portfolio website built using GitHub Pages.  
 This portfolio showcases my projects, dashboards, analytics solutions, certifications, and technical skills in Data Analytics, Business Intelligence, and Generative AI.
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-Hi, I'm **Sidhartha Malla**, a passionate **Data Analyst & Generative AI Practitioner** focused on transforming raw data into actionable business insights.
+Hi, I'm **Sidhartha Kumar Malla**, a passionate **Data Analyst & Generative AI Practitioner** focused on transforming raw data into actionable business insights.
 
 I specialize in:
 
@@ -25,9 +25,9 @@ I build end-to-end analytics solutions, automate reporting workflows, and create
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
-## 💻 Tools & Technologies
+##  Tools & Technologies
 
 - SQL
 - Python
@@ -41,7 +41,7 @@ I build end-to-end analytics solutions, automate reporting workflows, and create
 
 ---
 
-## 📈 Core Analytics Skills
+##  Core Analytics Skills
 
 - Data Visualization
 - Dashboard Development
@@ -56,25 +56,34 @@ I build end-to-end analytics solutions, automate reporting workflows, and create
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
 ---
 
-## 🏬 MS Fabric | SQL | Power BI  
-### End-to-End Retail Sales Intelligence Platform
+##  End-to-End Retail Sales Intelligence Platform
+###  MS Fabric | SQL | Power BI
 
-Built a modern retail analytics platform using Microsoft Fabric, SQL, and Power BI to automate reporting, process multi-country sales data, and deliver real-time business insights through interactive dashboards.
-
-### Key Highlights
-- Developed interactive executive dashboards
-- Implemented SQL-based data transformation
-- Built scalable data pipelines
-- Automated KPI monitoring and reporting
-- Delivered business performance insights
+This project focused on building a modern retail analytics platform using Microsoft Fabric, SQL, ETL pipelines, and Power BI. The goal was to centralize multi-country sales data, improve reporting accuracy, and create interactive dashboards for business decision-making.
 
 ### Tools Used
 `Microsoft Fabric` `SQL` `Power BI` `DAX`
 
+### Here are the questions I was interested in answering:
+- Which countries and product categories generated the highest revenue?
+- How can reporting delays and ETL errors be reduced?
+- Which business metrics should be tracked in real time?
+- How can dashboard performance and query speed be improved?
+### I took the following steps to create my analysis:
+- Built ETL pipelines and processed 60K+ retail records across 6 countries.
+- Designed a Star Schema data model using T-SQL for optimized analytics.
+- Cleaned and transformed raw sales data by handling duplicates, nulls, and schema issues.
+- Developed interactive Power BI dashboards using DAX and Direct Query.
+- Created KPI-focused visualizations for sales, revenue, and profitability analysis.
+### Here are my key takeaways:
+- Improved data reliability and reporting accuracy significantly.
+- Reduced dashboard query time by 35% through optimized modeling.
+- Created a centralized single source of truth for reporting.
+- Enabled faster business decisions with real-time insights.
 ---
 
 ## 🐍 Python | Excel  
