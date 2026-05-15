@@ -1,5 +1,55 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [YOUR NAME]
-description: [Turning Data into insights]
+  - jekyll-include-cache
+
+title: "Sidhartha Malla"
+name: "Sidhartha Malla"
+description: "Aspiring Data Analyst | Power BI | SQL | Python | Excel"
+url: "https://sidharthakumarmalla.github.io"
+baseurl: ""
+
+repository: "sidharthakumarmalla-lab/sidharthakumarmalla.github.io"
+
+theme_skin: "dark"
+
+search: true
+
+author:
+  name   : "Sidhartha Malla"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Aspiring Data Analyst passionate about transforming data into actionable business insights."
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sidharthakumarmalla-lab"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/YOUR-LINKEDIN"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:YOURMAIL@gmail.com"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sidharthakumarmalla-lab"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
