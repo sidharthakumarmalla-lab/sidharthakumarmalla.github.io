@@ -84,41 +84,50 @@ This project focused on building a modern retail analytics platform using Micros
 - Reduced dashboard query time by 35% through optimized modeling.
 - Created a centralized single source of truth for reporting.
 - Enabled faster business decisions with real-time insights.
+
+<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/e6d707d2-c5d8-4afe-9c98-5d4909da5e17" />
 ---
 
-## 🐍 Python | Excel  
-### Superstore Sales Performance & Profitability Analysis
+##  Superstore Sales Performance & Profitability Analysis
+### Python | Excel 
 
-Analyzed retail sales and customer behavior using Python and Excel to uncover profit opportunities, optimize discount strategies, and improve business decision-making through visual insights.
-
-### Key Highlights
-- Cleaned and transformed raw sales data
-- Performed profitability analysis
-- Identified high-performing products and regions
-- Created visual business reports
+This project focused on analyzing retail sales performance, customer behavior, and profitability trends using Python and Excel. The objective was to identify profit opportunities, optimize discount strategies, and improve decision-making through data visualization.
 
 ### Tools Used
 `Python` `Excel` `Pandas` `Matplotlib`
 
+### Here are the questions I was interested in answering:
+- Which products and regions generated the highest profit?
+- How do discounts impact profitability?
+- Which customer segments contribute the most revenue?
+- What patterns can be identified in customer purchasing behavior?
+### I took the following steps to create my analysis:
+- Performed exploratory data analysis on 9,994 retail transactions using Python and Excel.
+- Cleaned and transformed data using Pandas and NumPy.
+- Built visualizations using Matplotlib and Seaborn.
+- Analyzed discount-profit relationships and customer segmentation.
+- Designed dashboards and KPI summaries for business insights.
+### Here are my key takeaways:
+- Identified $286K profit opportunities across categories and regions.
+- Found that excessive discounting reduced profitability significantly.
+- Customer segmentation helped improve marketing effectiveness.
+- Data visualization simplified business performance tracking.
+
+
+
 ---
 
-## 📊 Power BI | DAX  
-### Financial Sales & Profitability Dashboard
+##  Financial Sales & Profitability Dashboard
+###  Power BI | DAX 
 
-Designed an interactive Power BI dashboard with advanced DAX measures and data modeling to monitor sales, profit margins, and business performance across different segments and time periods.
-
-### Key Highlights
-- Built KPI dashboards
-- Implemented advanced DAX calculations
-- Created star schema data model
-- Developed interactive visualizations
+This project focused on creating an interactive Power BI dashboard to monitor sales, profitability, and business performance metrics. The dashboard was designed to support dynamic analysis with advanced DAX calculations and time-intelligence reporting.
 
 ### Tools Used
 `Power BI` `DAX` `Power Query`
 
 ---
 
-## 🛒 Power BI | DAX  
+## Power BI | DAX  
 ### E-Commerce Sales & Business Performance Dashboard
 
 Built an end-to-end Power BI dashboard to analyze e-commerce sales, customer behavior, marketing performance, and inventory trends using DAX, Power Query, data modeling, and Star Schema design.
@@ -134,7 +143,7 @@ Built an end-to-end Power BI dashboard to analyze e-commerce sales, customer beh
 
 ---
 
-## 🦠 Power BI | DAX  
+## Power BI | DAX  
 ### COVID-19 Global Analysis Dashboard
 
 Built an interactive Power BI COVID-19 dashboard to analyze global cases, deaths, recoveries, active cases, and testing trends across continents and countries using data cleaning, Power Query, DAX, and advanced visualizations.
@@ -150,17 +159,16 @@ Built an interactive Power BI COVID-19 dashboard to analyze global cases, deaths
 
 ---
 
-# 🏆 Certifications
+# Certifications
 
-- Data Analytics Certifications
-- Power BI Certifications
-- SQL Certifications
-- Python for Data Analytics
+- IBM Data Analytics Certifications
+- SQL Intermediate Certification
 - Generative AI Certifications
+- McKinsey.org Forward Program
 
 ---
 
-# 🎓 Education
+# Education
 
 ## B.Tech – Electrical Engineering  
 ## M.Tech – Industrial Engineering & Management
@@ -173,7 +181,7 @@ Focused on:
 
 ---
 
-# 🌐 Portfolio Features
+# Portfolio Features
 
 ✅ Responsive Design  
 ✅ Interactive Project Showcase  
@@ -184,20 +192,20 @@ Focused on:
 
 ---
 
-# 📬 Connect With Me
+# Connect With Me
 
-## 🔗 LinkedIn
-Add your LinkedIn profile here
+## LinkedIn
+https://www.linkedin.com/in/sidhartha-kumar-malla-a851aa408/
 
-## 💻 GitHub
+## GitHub
 https://github.com/sidharthakumarmalla-lab
 
-## 📧 Email
-Add your professional email here
+## Email
+sidharthakumarmalla@gmail.com
 
 ---
 
-# ⭐ Portfolio Objective
+# Portfolio Objective
 
 This portfolio demonstrates my practical experience in:
 - Data Analytics
@@ -211,7 +219,7 @@ with a strong focus on solving real-world business problems using data.
 
 ---
 
-# 🚀 Live Portfolio
+# Live Portfolio
 
 Add your GitHub Pages portfolio link here:
 
