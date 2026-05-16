@@ -85,7 +85,7 @@ This project focused on building a modern retail analytics platform using Micros
 - Created a centralized single source of truth for reporting.
 - Enabled faster business decisions with real-time insights.
 
-<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/e6d707d2-c5d8-4afe-9c98-5d4909da5e17" />
+- <img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/e6d707d2-c5d8-4afe-9c98-5d4909da5e17" />
 ---
 
 ##  Superstore Sales Performance & Profitability Analysis
